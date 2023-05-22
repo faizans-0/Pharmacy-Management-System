@@ -1,0 +1,3 @@
+faizan02	faizan123	Faizan Samdani	20	Male	faizansamdani@gmail.com	0506369142
+testacc1	testpass	Test Account	51	Male	testaccount1@gmail.com	0505050505
+john22	password1	John Smith	50	Male	johnsmith@gmail.com	1234567890
